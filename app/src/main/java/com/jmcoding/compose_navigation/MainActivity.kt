@@ -19,6 +19,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
-@Serializable
-data object LoginDestination
