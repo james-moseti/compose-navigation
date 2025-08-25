@@ -42,7 +42,7 @@ fun ProfileScreen() {
                     .background(Color.Gray)
             )
             Text(
-                text = "Jov Mit",
+                text = "James Mt",
                 style = MaterialTheme.typography.headlineLarge
             )
         }
